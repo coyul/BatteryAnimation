@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_margin">5dp</dimen>
+
+    <dimen name="battery_stroke_width">5dp</dimen>
+    <dimen name="battery_stroke_corners">15dp</dimen>
+    <dimen name="landscape_margin">40dp</dimen>
+    <dimen name="buttons_padding">50dp</dimen>
+    <dimen name="battery_width">160dp</dimen>
+    <dimen name="battery_height">280dp</dimen>
+    <dimen name="flash_margin">80dp</dimen>
+</resources>

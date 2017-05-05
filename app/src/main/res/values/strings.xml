@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BatteryAnimation</string>
+    <string name="button_power_up">Power up!</string>
+    <string name="button_power_off">Power off...</string>
+</resources>
